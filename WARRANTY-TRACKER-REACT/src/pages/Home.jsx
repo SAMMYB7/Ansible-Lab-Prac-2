@@ -29,7 +29,7 @@ const Home = () => {
         </div>
 
         <div className="info-section">
-          <h3>About This Application</h3>
+          <h3>About This App</h3>
           <p>
             This full-stack warranty management system allows you to perform complete CRUD 
             (Create, Read, Update, Delete) operations on warranty records. The application 
